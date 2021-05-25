@@ -1,1 +1,2 @@
-# Project-Banking_Management-
+# Project-Banking_Management
+Mini Assignment Project.
